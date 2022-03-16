@@ -32,7 +32,7 @@ const AxiosTest = () => {
 
   return (
     <div>
-      <h3>서버로부터 받아온 값</h3>
+      <h3>서버로부터 받아온 값 표시</h3>
       <table border="1">
         {result}
       </table>
